@@ -10,6 +10,9 @@
   </action>
   <action id="Debugger.EditArrayFilter" />
   <action id="Debugger.EditCustomField" />
+  <action id="Find">
+    <keyboard-shortcut first-keystroke="ctrl f" />
+  </action>
   <action id="FixDocComment">
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
@@ -34,9 +37,13 @@
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="f2" />
   </action>
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="f3" />
   </action>
+  <action id="RunToCursor" />
   <action id="ServiceView.GroupByContributor" />
   <action id="UpdateRunningApplication" />
   <action id="XDebugger.EditWatch" />
