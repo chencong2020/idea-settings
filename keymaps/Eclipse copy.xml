@@ -1,4 +1,7 @@
 <keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="$TranslateDocumentationAction">
+    <keyboard-shortcut first-keystroke="ctrl t" />
+  </action>
   <action id="ActivateGradleToolWindow">
     <keyboard-shortcut first-keystroke="alt g" />
   </action>
@@ -10,6 +13,9 @@
   </action>
   <action id="Debugger.EditArrayFilter" />
   <action id="Debugger.EditCustomField" />
+  <action id="Editor TranslateDocumentationAction">
+    <keyboard-shortcut first-keystroke="ctrl t" />
+  </action>
   <action id="Find">
     <keyboard-shortcut first-keystroke="ctrl f" />
   </action>
@@ -20,7 +26,6 @@
     <mouse-shortcut keystroke="control button1" />
   </action>
   <action id="GotoImplementation">
-    <keyboard-shortcut first-keystroke="ctrl t" />
     <keyboard-shortcut first-keystroke="ctrl alt b" />
     <mouse-shortcut keystroke="control button3" />
   </action>
