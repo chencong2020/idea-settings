@@ -1,6 +1,4 @@
 /**
- *@ClassName：${NAME}
- *@Description：
- *@Author：ChenCong
- *@Date：Created in ${DATE} ${TIME}
+ *@author chencong
+ *@date ${DATE}
  */
