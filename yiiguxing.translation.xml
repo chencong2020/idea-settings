@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Api Response" />
+      <item value="Api Operation" />
       <item value="Algorithm" />
       <item value="code" />
       <item value="Consider defining a bean named 'entityManagerFactory' in your configuration" />
@@ -12,5 +14,8 @@
         <entry key="ENGLISH" value="5" />
       </map>
     </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1620438498531" />
   </component>
 </application>
