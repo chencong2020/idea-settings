@@ -1,6 +1,7 @@
 <application>
   <component name="TipsStore">
     <option name="globalFirstStartUp" value="false" />
+    <entry projectPath="E:/docs/GitHub/ag02/cims-common-server.git" startUpFlag="FIRST" />
     <entry projectPath="E:/docs/GitHub/springboot-seed" startUpFlag="FIRST" />
   </component>
 </application>
